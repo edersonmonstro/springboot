@@ -10,7 +10,7 @@ Verbo : POST
 URI: [localhost:8080/products](localhost:8080/products)  
 JSON Body: 
 
-```
+```json
 {
     "name": "Lavadora LG",
     "value": 1500.00
@@ -22,7 +22,7 @@ Verbo : POST
 URI: [localhost:8080/products](localhost:8080/products)  
 JSON Body: 
 
-```
+```json
 {
     "name": "",
     "value": 1500.00
